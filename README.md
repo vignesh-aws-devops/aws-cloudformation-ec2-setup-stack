@@ -41,10 +41,6 @@ Created a YAML template that provisions a complete AWS networking environment al
 - Understanding VPCs, Subnets, Route Tables, Internet Gateways, Security Groups, and EC2 is essential for cloud automation
 - CloudFormation provides a strong foundation for building larger and more complex AWS architectures through code
 
-## 🔷 Source Code
-
-https://github.com/vignesh-aws-devops/aws-cloudformation-ec2-setup-stack/tree/main
-
 ## 🟢 Let's Connect!
 
 If you're passionate about DevOps or curious about AWS and cloud automation, let's connect! I'd love to exchange ideas, discuss strategies, or collaborate on exciting projects.
