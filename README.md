@@ -20,6 +20,10 @@ Created a YAML template that provisions a complete AWS networking environment al
 - Launched an EC2 Instance (t3.micro) within the Public Subnet and associated it with the Security Group
 - Configured CloudFormation Outputs to retrieve the EC2 Instance Public IP after deployment
 
+## 🏗️ Architecture Diagram
+
+![AWS CloudFormation EC2 Architecture](AWS%20CFN%20EC2.png)
+
 ## ⚙️ CloudFormation Workflow & Commands Used
 
 - `aws cloudformation validate-template` – Validates the CloudFormation template before deployment
